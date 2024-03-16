@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32865" started-at="2014-04-08T05:01:24Z" finished-at="2014-04-08T05:01:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32865" started-at="2014-04-08T05:01:24Z" finished-at="2014-04-08T05:01:57Z">
+      <class name="TestScript06">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript06@4915a928]" name="setUp" is-config="true" duration-ms="6104" started-at="2014-04-08T10:31:24Z" finished-at="2014-04-08T10:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase05(java.lang.String, java.lang.String)[pri:0, instance:TestScript06@4915a928]" name="testCase05" duration-ms="3794" started-at="2014-04-08T10:31:30Z" data-provider="GuruTest" finished-at="2014-04-08T10:31:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr1336]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dAnavUq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript06@4915a928]" name="tearDown" is-config="true" duration-ms="147" started-at="2014-04-08T10:31:34Z" finished-at="2014-04-08T10:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript06@4915a928]" name="setUp" is-config="true" duration-ms="5328" started-at="2014-04-08T10:31:34Z" finished-at="2014-04-08T10:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase05(java.lang.String, java.lang.String)[pri:0, instance:TestScript06@4915a928]" name="testCase05" duration-ms="1476" started-at="2014-04-08T10:31:39Z" data-provider="GuruTest" finished-at="2014-04-08T10:31:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript06@4915a928]" name="tearDown" is-config="true" duration-ms="141" started-at="2014-04-08T10:31:41Z" finished-at="2014-04-08T10:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript06@4915a928]" name="setUp" is-config="true" duration-ms="5346" started-at="2014-04-08T10:31:41Z" finished-at="2014-04-08T10:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase05(java.lang.String, java.lang.String)[pri:0, instance:TestScript06@4915a928]" name="testCase05" duration-ms="1556" started-at="2014-04-08T10:31:46Z" data-provider="GuruTest" finished-at="2014-04-08T10:31:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript06@4915a928]" name="tearDown" is-config="true" duration-ms="153" started-at="2014-04-08T10:31:48Z" finished-at="2014-04-08T10:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript06@4915a928]" name="setUp" is-config="true" duration-ms="7144" started-at="2014-04-08T10:31:48Z" finished-at="2014-04-08T10:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase05(java.lang.String, java.lang.String)[pri:0, instance:TestScript06@4915a928]" name="testCase05" duration-ms="1485" started-at="2014-04-08T10:31:55Z" data-provider="GuruTest" finished-at="2014-04-08T10:31:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript06@4915a928]" name="tearDown" is-config="true" duration-ms="176" started-at="2014-04-08T10:31:57Z" finished-at="2014-04-08T10:31:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScript06 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
